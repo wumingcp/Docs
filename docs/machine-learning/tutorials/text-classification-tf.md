@@ -10,7 +10,7 @@ author: natke
 ---
 # Tutorial: Analyze sentiment of movie reviews using a pre-trained TensorFlow model in ML.NET
 
-This tutorial shows you how to use a pre-trained TensorFlow model to classify sentiment in website comments. The binary sentiment classifier is a C# console application developed using Visual Studio.
+This tutorial shows you how to use a pre-trained TensorFlow model to classify sentiment in movie reviews. The binary sentiment classifier is a C# console application developed using Visual Studio.
 
 The TensorFlow model used in this tutorial was trained using movie reviews from the IMDB database. Once you have finished developing the application, you will be able to supply movie review text and the application will tell you whether the review has positive or negative sentiment.
 
