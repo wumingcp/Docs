@@ -27,7 +27,6 @@
       "locale": "en-us",
       "xref_query_tags": ["/uwp/api"],
       "monikers": [],
-      "filemap_share_depots": ["VS.dotnet-api-docs"],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
