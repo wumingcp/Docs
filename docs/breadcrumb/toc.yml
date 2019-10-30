@@ -248,9 +248,6 @@
       - name: Resources in Desktop Apps
         tocHref: /dotnet/framework/resources/
         topicHref: /dotnet/framework/resources/index
-      - name: Security in the .NET Framework
-        tocHref: /dotnet/framework/security/
-        topicHref: /dotnet/framework/security/index
       - name: .NET Framework Tools
         tocHref: /dotnet/framework/tools/
         topicHref: /dotnet/framework/tools/index
