@@ -4,9 +4,9 @@ ms.date: 9/20/2018
 ms.topic: include
 ---
 
-# Test Public Repo on internal environment for Commit Build
+# Test Public Repo on internal environment for PR Build
 
-Test Public Repo on internal environment for Commit Build
+Test Public Repo on internal environment for PR Build
 
 Your .NET application needs permissions to read and create resources in your Azure subscription in order to use the Azure Management Libraries for .NET. Create a service principal and configure your app to run with its credentials to grant this access. Service principals provide a way to create a non-interactive account associated with your identity to which you grant only the privileges your app needs to run.
 
