@@ -8,9 +8,9 @@ ms.date: 05/13/2020
 
 In the spectrum from managing physical machines to leveraging cloud capabilities, serverless lives at the extreme end. Your only responsibility is your code, and you only pay when your code runs. Azure Functions provides a way to build serverless capabilities into your cloud-native applications.
 
-## Test Public Repo on internal environment for Commit Build
+## Test Public Repo on internal environment for PR Build
 
-Test Public Repo on internal environment for Commit Build
+Test Public Repo on internal environment for PR Build
 
 ## What is serverless?
 
