@@ -10,6 +10,10 @@ ms.date: 08/11/2018
 
 Ready to get started? [Publish your ASP.NET + SQL application to Azure App Service](https://tutorials.visualstudio.com/azure-webapp-migrate/intro).
 
+## Test Public Repo on internal environment for Commit Build
+
+Test Public Repo on internal environment for Commit Build
+
 ## Considerations
 
 ### On-premises resources (including SQL Server)
