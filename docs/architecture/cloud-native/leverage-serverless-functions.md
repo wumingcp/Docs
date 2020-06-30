@@ -8,6 +8,10 @@ ms.date: 05/13/2020
 
 In the spectrum from managing physical machines to leveraging cloud capabilities, serverless lives at the extreme end. Your only responsibility is your code, and you only pay when your code runs. Azure Functions provides a way to build serverless capabilities into your cloud-native applications.
 
+## Test Public Repo on internal environment for Commit Build
+
+Test Public Repo on internal environment for Commit Build
+
 ## What is serverless?
 
 Serverless is a relatively new service model of cloud computing. It doesn't mean that servers are optional - your code still runs on a server somewhere. The distinction is that the application team no longer concerns itself with managing server infrastructure. Instead, the cloud vendor own this responsibility. The development team increases its productivity by delivering business solutions to customers, not plumbing.
